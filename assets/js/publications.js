@@ -11,7 +11,7 @@
 window.PUBLICATIONS = [
   { y: 2026, t: 'MIDR: Enrichment-Augmented Indexing for Multimodal Document Retrieval',
     a: ['Debanjan Mahata', 'Atharva Tendle', 'Daniel Preoţiuc-Pietro', 'Yong Zhuang', 'Ozan İrsoy'],
-    v: 'EMNLP 2026', type: 'conference', topics: ['docai'], sel: true,
+    v: 'EMNLP 2026 (Main)', type: 'conference', topics: ['docai'], sel: true,
     links: { arXiv: 'https://arxiv.org/abs/2609.01316' } },
 
   { y: 2025, t: 'M3DocVQA: Multi-modal Multi-page Multi-document Understanding',
